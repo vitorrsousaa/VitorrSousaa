@@ -1,54 +1,39 @@
-## Olá, meu nome é Vitor! 👋 <img src="https://komarev.com/ghpvc/?username=vitorrsousaa19&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right" /> 
+## Hi, I'm Vitor! 👋 <img src="https://komarev.com/ghpvc/?username=vitorrsousaa19&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right" /> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="400px" align="right" alt="Computador VitorSousa">
 
 
 <p align="left" >
- 💬 Estudante de programação com foco na área de <strong>Front-end </strong> <br />
- 🎯 Atualmente estou buscando uma transição de carreira para a programação ! <br />
- 🚀 Criador de conteúdo do programação e tecnologia. <br/>
+ 🎯 Currently improving in React, Next and Node <br />
+ 🚀 Enthusiast of the best web development technologies <br/>
+ 🌍 Born in Brazil 🇧🇷
  </p>
- 
- ## Minhas Skills 🚀
- 
- <div style="display: inline-block" align="center" >
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  &nbsp;&nbsp;
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  &nbsp;&nbsp;
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  &nbsp;&nbsp;
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  &nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+
+ ###  Technologies 
+<div text-align="justify">  
+<img src="https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Express%20js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vitest-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
 </div>
 
-## Meus Contatos 📱
+### Find me 📱
 
-<p align="center">
-  
-  <a href="https://github.com/VitorrSousaa" >
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:v.sousa.cf@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:v.sousa.cf@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/vitorr-sousaa">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/vitorr-sousaa">
-    </a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Sousa-20232A?style=for-the-badge&logo=Linkedin&logoColor=61DAFB&link=https://www.linkedin.com/in/vitorr-sousaa/)](https://www.linkedin.com/in/vitorr-sousaa/) 
+[![Gmail Badge](https://img.shields.io/badge/-v.sousa.cf@gmail.com-20232A?style=for-the-badge&logo=Gmail&logoColor=61DAFB&link=mailto:v.sousa.cf@gmail.com)](v.sousa.cf@gmail.com)
 
-## GitHub Stats 📚
+### GitHub Stats 📚
 
 <div align="center" >
   <a href="https://github.com/vitorrsousaa">
