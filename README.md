@@ -11,21 +11,24 @@
 
  ###  Technologies 
 <div text-align="justify">  
+ <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Express%20js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vitest-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
+ 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vitest-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" />
+
 <img src="https://img.shields.io/badge/aws%20-20232A?style=for-the-badge&logo=amazon-aws&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/jest%20-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/git%20-20232A?style=for-the-badge&logo=git&logoColor=61DAFB" />
