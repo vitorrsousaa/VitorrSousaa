@@ -1,4 +1,4 @@
-## Hi, I'm Vitor! 👋 <img src="https://komarev.com/ghpvc/?username=vitorrsousaa19&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right" /> 
+## Hi, I'm Vitor! 👋 <img src="https://komarev.com/ghpvc/?username=vitorrsousaa19&color=20232a&label=PROFILE+VIEWS&style=for-the-badge" align="right" /> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="400px" align="right" alt="Computador VitorSousa">
 
